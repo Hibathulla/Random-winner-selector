@@ -1,0 +1,34 @@
+body {
+  background-color: #222831;
+}
+h1 {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 100px;
+  padding: 5% 15%;
+  color: #2ec1ac;
+  text-shadow: 5px 0 #232931;
+}
+p {
+  color: #2ec1ac;
+  font-family: 'Knewave', cursive;
+  font-size: 20px;
+}
+.dice-1 {
+  display: inline-block;
+}
+.dice-2 {
+  display: inline-block;
+}
+.container-fluid {
+  text-align: center;
+}
+img {
+  width: 70%;
+}
+button {
+  margin-top: 25px;
+}
+.down {
+  font-size: 200%;
+}
